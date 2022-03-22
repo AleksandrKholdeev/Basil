@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary color -->
+    <color name="green_800">#356859</color>
+    <color name="green_500">#37966f</color>
+    <color name="green_100">#b9e4c9</color>
+    <color name="green_80">#ECE9D5</color>
+
+    <!-- Secondary color -->
+    <color name="orange_800">#fd5523</color>
+    <color name="green_50">#fffbe6</color>
+
+    <color name="textColorSelected">#356859</color>
+    <color name="textColorPrimary">#37966F</color>
+
 </resources>

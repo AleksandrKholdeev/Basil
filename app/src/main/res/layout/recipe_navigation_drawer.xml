@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/green_500_bordered_circle"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_bookmark_border_green_800_24" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Shopping List"
+        android:textAllCaps="true"
+        android:textColor="@color/green_500"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="100dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="60dp"
+        android:background="@color/green_500" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Basil.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Appetizers" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Basil.Selected.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Entrees" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Basil.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desserts" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Basil.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cocktails" />
+
+</merge>
