@@ -21,8 +21,20 @@
 
     <style name="TextAppearance.Basil.Title" parent="TextAppearance.MaterialComponents.Headline4">
         <item name="android:textColor">@color/orange_800</item>
-        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="fontFamily">@font/montserrat_bold</item>
+    </style>
 
+    <style name="TextAppearance.Basil.Title.LargeScreen" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/orange_800</item>
+        <item name="android:fontFamily">@font/montserrat_semi_bold</item>
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+    </style>
+
+    <style name="TextAppearance.Basil.Description" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/green_800</item>
+        <item name="android:fontFamily">@font/lekton_regular</item>
+        <item name="fontFamily">@font/lekton_regular</item>
     </style>
 
     <style name="TextAppearance.MaterialComponents.Headline1." parent="TextAppearance.MaterialComponents.Headline1">

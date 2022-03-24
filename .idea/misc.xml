@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/drawable/green_500_bordered_circle.xml" value="0.248" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/drawable/green_circle.xml" value="0.2185" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/drawable/ic_baseline_add_circle_outline_green_800_24.xml" value="0.2205" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/drawable/ic_baseline_bookmark_border_green_800_24.xml" value="0.2185" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.2435" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout-sw600dp/fragment_recipe.xml" value="0.193359375" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout-sw600dp/fragment_recipes_list.xml" value="0.193359375" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout-sw600dp/fragment_shopping_list.xml" value="0.2" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout-v26/recipe_item.xml" value="0.2578125" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_directions.xml" value="0.2578125" />
@@ -14,11 +18,18 @@
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_launch_screen.xml" value="0.264" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_recipe.xml" value="0.2116289012398461" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_recipes.xml" value="0.264" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_recipes_list.xml" value="0.2116289012398461" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/fragment_shopping_list.xml" value="0.264" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/ingredient_item.xml" value="0.1" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recipe_card_item.xml" value="0.264" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recipe_item.xml" value="0.264" />
-        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recipe_navigation_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recipe_navigation_drawer.xml" value="0.128" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recipe_navigation_drawer_sw600dp.xml" value="0.2116289012398461" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recyler_recipe_item.xml" value="0.19880290722530997" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recyler_recipe_item_first.xml" value="0.264" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recyler_recipe_item_forth.xml" value="0.144" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recyler_recipe_item_second.xml" value="0.144" />
+        <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/layout/recyler_recipe_item_third.xml" value="0.19880290722530997" />
         <entry key="..\:/Users/lobun/Programming/Material Design Applications/Basil/app/src/main/res/menu/activity_main_drawer.xml" value="0.19880290722530997" />
       </map>
     </option>

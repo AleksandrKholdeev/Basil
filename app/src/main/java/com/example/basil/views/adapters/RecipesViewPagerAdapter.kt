@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.basil.R
 import com.example.basil.model.Recipe
 
-
 class RecipesViewPagerAdapter(private val recipesList: List<Recipe>) :
     RecyclerView.Adapter<RecipesViewHolder>() {
 
