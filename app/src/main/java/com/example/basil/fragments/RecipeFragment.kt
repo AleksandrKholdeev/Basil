@@ -21,7 +21,7 @@ class RecipeFragment : Fragment() {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_recipe, container, false)
 
-        val widthWindowSize = WindowSizeManager.computeWidthWindowSize(resources)
+        val widthWindowSize = WindowSizeManager.computeWindowSize(resources)
 
         if (widthWindowSize == WindowSize.COMPACT) {
             view.recipe_view_pager.orientation = ViewPager2.ORIENTATION_VERTICAL
